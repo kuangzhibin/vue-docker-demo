@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Docker App'
+      msg: 'Welcome to Your Vue-Docker App'
     }
   }
 }
